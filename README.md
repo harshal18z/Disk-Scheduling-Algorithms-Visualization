@@ -12,7 +12,7 @@ Graph using Plotly, <br>
 Comparision Chart using Plotly <br><br>
 
 Home Page Screenshot:<br>
-![](Screenshots/Home.PNG)
+![](C:\Users\Hp\OneDrive\Pictures\Screenshots)
 <br><br>
 
 Animation Screenshot:
